@@ -1,6 +1,5 @@
 # env-code-example:
 This repository will contain code examples related to environmental data processing and analysis.
-# Content from Assignment 2 solutions
 def calculate_average(values):
     if len(values) == 0:
         return 0
